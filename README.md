@@ -4,10 +4,10 @@ A simple RESTful API built with FastAPI for managing items with full CRUD (Creat
 
 ## Features
 
-- ✅ Create, read, update, and delete items
-- ✅ SQLite database with SQLAlchemy ORM
-- ✅ Fast and async API endpoints
-- ✅ Auto-generated API documentation
+-  Create, read, update, and delete items
+-  SQLite database with SQLAlchemy ORM
+-  Fast and async API endpoints
+-  Auto-generated API documentation
 
 ## Technologies
 
